@@ -1,0 +1,14 @@
+C:\Users\gerga\Desktop\Test_c_sharp\consoleapp1\bin\Debug\net9.0\ConsoleApp1.exe
+C:\Users\gerga\Desktop\Test_c_sharp\consoleapp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+C:\Users\gerga\Desktop\Test_c_sharp\consoleapp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+C:\Users\gerga\Desktop\Test_c_sharp\consoleapp1\bin\Debug\net9.0\ConsoleApp1.dll
+C:\Users\gerga\Desktop\Test_c_sharp\consoleapp1\bin\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\gerga\Desktop\Test_c_sharp\consoleapp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerga\Desktop\Test_c_sharp\consoleapp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\gerga\Desktop\Test_c_sharp\consoleapp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\gerga\Desktop\Test_c_sharp\consoleapp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\gerga\Desktop\Test_c_sharp\consoleapp1\obj\Debug\net9.0\ConsoleApp1.dll
+C:\Users\gerga\Desktop\Test_c_sharp\consoleapp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+C:\Users\gerga\Desktop\Test_c_sharp\consoleapp1\obj\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\gerga\Desktop\Test_c_sharp\consoleapp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\gerga\Desktop\Test_c_sharp\consoleapp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
